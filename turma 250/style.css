@@ -11,7 +11,7 @@
 
 }
 
-nav{
+nav, section, footer{
     text-align:center;
 }
 
@@ -33,5 +33,21 @@ nav{
 
 #titulo h1{
     padding:10px 20px;
+}
+
+.imagens{
+   display: inline-block;
+   margin:10px;
+   padding:10px;
+}
+
+.imagens img{
+    width:300px;
+    height:300px;
+}
+
+footer{	
+
+	padding:15px;
 }
 
