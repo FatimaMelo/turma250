@@ -1,0 +1,28 @@
+.titulo{
+    background-color: #800000;
+    color:#fff;
+    font-weight: bold;
+}
+.fotos img{
+    height:600px;
+}
+
+.imginicial{
+    padding:10px;
+}
+
+.imginicial img{
+    width:300px;
+    height:300px;
+}
+
+.footer{
+    background-color: #800000;
+    padding:20px;
+    color:#fff;
+}
+
+.menufooter{
+    color:#fff;
+}
+
